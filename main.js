@@ -5,5 +5,4 @@ import App from './App.jsx';
 //import buscador from './buscador.jsx';
 
 ReactDOM.render(<App />, document.getElementById('app'));
-//ReactDOM.render(<titulo />, document.getElementById('tuto'));
 ReactDOM.render(<buscador />, document.getElementById('buscador'));
