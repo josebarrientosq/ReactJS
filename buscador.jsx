@@ -10,4 +10,4 @@ class buscador extends React.Component{
     }
 }
 
-module.exports buscador;
+export default buscador;
